@@ -1,0 +1,7 @@
+C:\Users\kushagra.bhatnagar\source\repos\Training1\Training1\obj\Debug\Training1.csproj.AssemblyReference.cache
+C:\Users\kushagra.bhatnagar\source\repos\Training1\Training1\obj\Debug\Training1.csproj.CoreCompileInputs.cache
+C:\Users\kushagra.bhatnagar\source\repos\Training1\Training1\bin\Debug\Training1.exe.config
+C:\Users\kushagra.bhatnagar\source\repos\Training1\Training1\bin\Debug\Training1.exe
+C:\Users\kushagra.bhatnagar\source\repos\Training1\Training1\bin\Debug\Training1.pdb
+C:\Users\kushagra.bhatnagar\source\repos\Training1\Training1\obj\Debug\Training1.exe
+C:\Users\kushagra.bhatnagar\source\repos\Training1\Training1\obj\Debug\Training1.pdb

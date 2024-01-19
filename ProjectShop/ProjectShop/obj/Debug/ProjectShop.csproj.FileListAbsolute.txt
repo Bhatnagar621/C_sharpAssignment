@@ -1,0 +1,7 @@
+C:\Users\kushagra.bhatnagar\source\repos\ProjectShop\ProjectShop\bin\Debug\ProjectShop.exe.config
+C:\Users\kushagra.bhatnagar\source\repos\ProjectShop\ProjectShop\bin\Debug\ProjectShop.exe
+C:\Users\kushagra.bhatnagar\source\repos\ProjectShop\ProjectShop\bin\Debug\ProjectShop.pdb
+C:\Users\kushagra.bhatnagar\source\repos\ProjectShop\ProjectShop\obj\Debug\ProjectShop.csproj.AssemblyReference.cache
+C:\Users\kushagra.bhatnagar\source\repos\ProjectShop\ProjectShop\obj\Debug\ProjectShop.csproj.CoreCompileInputs.cache
+C:\Users\kushagra.bhatnagar\source\repos\ProjectShop\ProjectShop\obj\Debug\ProjectShop.exe
+C:\Users\kushagra.bhatnagar\source\repos\ProjectShop\ProjectShop\obj\Debug\ProjectShop.pdb
